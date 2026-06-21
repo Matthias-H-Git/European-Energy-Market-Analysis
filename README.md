@@ -1,9 +1,8 @@
-# Certified Data Analyst - Capstone Project
-This Data Analysis Project was conductet as part of my Certified Data Analyst course.
-
 # Energy Market & Electrification Analysis
 
 ## 📌 Project Overview
+
+This Data Analysis Project was conductet as part of my Certified Data Analyst course.
 
 This project analyzes the relationship between electricity markets, renewable energy development, and electrification trends (e-mobility, heat pumpts) in Europe.
 
