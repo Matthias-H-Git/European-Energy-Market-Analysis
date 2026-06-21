@@ -50,4 +50,22 @@ Using data from the ENTSO-E Transparency Platform, the project explores:
 - Scikit-learn
 - Matplotlib / Seaborn
 - Power BI
-- Data sources: ENTSO-E Transparency Platform, EUROSTAT
+
+---
+
+## 📂 Project Structure
+
+See repository folders for full pipeline implementation.
+
+---
+
+## 🔗 Data Source
+
+- ENTSO-E Transparency Platform: https://transparency.entsoe.eu/
+- EUROSTAT: https://ec.europa.eu/eurostat
+
+---
+
+## 🚀 Author
+
+Data Analyst, M. Sc. Engineering, with 10+ years experience in product management, focusing on e-mobility, energy systems, HVAC and finance.
