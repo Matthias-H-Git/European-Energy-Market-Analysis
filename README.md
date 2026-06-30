@@ -6,7 +6,12 @@ European energy systems are undergoing a profound transformation. The expansion 
 
 This project analyzes the relationship between electricity markets, renewable energy development, and electrification trends (e-mobility, heat pumpts) in Europe.
 
+It combines data analytics with energy-industry domain knowledge, demonstrating how publicly available data can be leveraged to conduct data-driven analyses of complex economic questions. Methods of exploratory data analysis (EDA), correlation analysis, and cluster analysis are applied to bring transparency to complex interdependencies.
+
+The project showcases the end-to-end implementation of a data analytics workflow—ranging from data acquisition and data preprocessing to statistical analysis and the derivation of actionable, practical recommendations.
+
 Using data from the ENTSO-E Transparency Platform and EUROSTAT, the project aims to investigate the interplay between the energy transition and the power market.
+
 It explores the potential correlations between three key pillars:
 
 - The generation of variable renewable energy (specifically wind and solar photovoltaic).
