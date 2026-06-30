@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 
+European energy systems are undergoing a profound transformation. The expansion of renewable energy, coupled with the increasing electrification of mobility and heating, is reshaping both power generation and electricity demand.
+
 This project analyzes the relationship between electricity markets, renewable energy development, and electrification trends (e-mobility, heat pumpts) in Europe.
 
 Using data from the ENTSO-E Transparency Platform and EUROSTAT, the project aims to investigate the interplay between the energy transition and the power market.
