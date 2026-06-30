@@ -2,25 +2,27 @@
 
 ## 📌 Project Overview
 
-This Data Analysis Project was conductet as part of my Certified Data Analyst course.
-
 This project analyzes the relationship between electricity markets, renewable energy development, and electrification trends (e-mobility, heat pumpts) in Europe.
 
-Using data from the ENTSO-E Transparency Platform, the project explores:
-- electricity price dynamics
-- renewable energy penetration
-- electricity demand (load)
-- structural differences between countries
-- adoption of electrification technologies in mobility and heating
+Using data from the ENTSO-E Transparency Platform and EUROSTAT, the project aims to investigate the interplay between the energy transition and the power market.
+It explores the potential correlations between three key pillars:
+
+- The generation of variable renewable energy (specifically wind and solar photovoltaic).
+- The electrification of the economy (focusing on heat pumps and electric vehicles).
+- The development of electricity prices and their volatility.
 
 ---
 
 ## 🎯 Key Questions
 
-- How do electricity prices vary across Europe?
-- What is the relationship between renewables and price volatility?
-- How is electricity demand evolving with electrification?
-- Can European countries be grouped into energy transition clusters?
+In the area of market segmentation, the following questions are addressed:
+- How can electricity markets be categorized into distinct clusters?
+- Can countries with similar energy transition (transformation) patterns be identified?
+
+On the technological side, the analysis evaluates the following aspects:
+- Supply Side (Generation): What impact do variable renewable energies (VRE) have on electricity prices and their volatility?
+- Demand Side (Consumption): What impact does the adoption of heat pumps and electric vehicles (EVs) have on electricity prices and their volatility?
+- Supply-Demand Balance: Does electricity price volatility influence the expansion and deployment of battery storage systems?
 
 ---
 
@@ -46,9 +48,11 @@ Using data from the ENTSO-E Transparency Platform, the project explores:
 ## 🛠 Tools
 
 - Python (Pandas, NumPy)
-- Scikit-learn
+- Scikit-learn, SciPy
 - Matplotlib / Seaborn
+- SQL
 - Power BI
+- Excel ToolPak
 
 ---
 
