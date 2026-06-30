@@ -1,4 +1,4 @@
-# Energy Market & Electrification Analysis
+# European Energy Market Analysis
 
 ## 📌 Project Overview
 
@@ -48,11 +48,11 @@ On the technological side, the analysis evaluates the following aspects:
 ## 🛠 Tools
 
 - Programming languages
-  - Python (Pandas, NumPy)
+  - Python
   - SQL
 - Libraries
   - Pandas
-  - Numpy
+  - NumPy
   - Matplotlib
   - Seaborn
   - Scikit-learn
