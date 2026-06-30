@@ -47,12 +47,20 @@ On the technological side, the analysis evaluates the following aspects:
 
 ## 🛠 Tools
 
-- Python (Pandas, NumPy)
-- Scikit-learn, SciPy
-- Matplotlib / Seaborn
-- SQL
-- Power BI
-- Excel ToolPak
+- Programming languages
+  - Python (Pandas, NumPy)
+  - SQL
+- Libraries
+  - Pandas
+  - Numpy
+  - Matplotlib
+  - Seaborn
+  - Scikit-learn
+  - SciPy
+- Visualization
+  - Power BI
+- Statistics
+  - Excel ToolPak
 
 ---
 
